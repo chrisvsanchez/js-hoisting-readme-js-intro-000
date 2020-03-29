@@ -32,4 +32,3 @@ function sayMyName() {
   }
   sayMy();
 }
-return lyric;
